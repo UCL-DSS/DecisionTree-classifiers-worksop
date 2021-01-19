@@ -22,7 +22,7 @@ For MacOS use: https://repo.anaconda.com/archive/Anaconda3-2020.07-MacOSX-x86_64
 
 ```shell
 
-├── DS06 - Data Science with Python: knn
+├── DS - Data Science with Python: Decision Tree Classifiers
 │   ├── Data
 │   |   ├── red_wine.csv
 │   |   ├── white_wine.csv
